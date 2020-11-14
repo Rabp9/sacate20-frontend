@@ -1,10 +1,14 @@
 Frontend:
-  ☐ crear postsservice
+  ✔ crear postsservice @done (20-11-14 18:20)
+  ✔ get all en postsservice @done (20-11-14 18:17)
+  ✔ crear Post Model @done (20-11-14 16:39)
+  ✔ mostrar posts @done (20-11-14 18:20)
   ☐ crear admin
   ☐ crear carpeta admin/posts
   ☐ crear posts-list
   ☐ crear posts-add
   ☐ crear posts-edit
+  ☐ diseño de posts-list
 Backend:
   ✔ Crear base de datos @done (20-11-02 01:31)
   ✔ Generar registros de posts @done (20-11-02 02:28)
@@ -21,8 +25,9 @@ Backend:
   ✔ Revisar timestamp en posts table @done (20-11-08 22:11)
   ✔ Revisar timestamp en tags table @done (20-11-08 22:12)
   ✔ Revisar posts controller @done (20-11-12 00:13)
-  ☐ Revisar tags controller
-  ☐ Revisar routes
+  ✔ Revisar tags controller @done (20-11-14 15:35)
+  ✔ Revisar routes @done (20-11-14 15:48)
+  ✔ Crear command list txt @done (20-11-14 16:01)
   ☐ Revisar tests
   ☐ Agregar slug a posts table
   ☐ Agregar slug a posts entity

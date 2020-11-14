@@ -1,0 +1,4 @@
+bin\cake migrations seed --seed StatesSeed
+bin\cake migrations seed --seed PostsSeed
+bin\cake migrations seed --seed TagsSeed
+bin\cake migrations seed --seed PostsTagsSeed
