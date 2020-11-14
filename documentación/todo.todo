@@ -1,0 +1,34 @@
+Frontend:
+  ☐ crear postsservice
+  ☐ crear admin
+  ☐ crear carpeta admin/posts
+  ☐ crear posts-list
+  ☐ crear posts-add
+  ☐ crear posts-edit
+Backend:
+  ✔ Crear base de datos @done (20-11-02 01:31)
+  ✔ Generar registros de posts @done (20-11-02 02:28)
+  ✔ Generar registros de tags @done (20-11-03 00:31)
+  ✔ Generar registros states @done (20-11-04 00:50)
+  ✔ Generar registros de posts_tags @done (20-11-04 01:41)
+  ✔ Generar shell para generar registros all @done (20-11-05 00:17)
+  ✔ Revisar post entity @done (20-11-05 00:20)
+  ✔ Revisar tag entity @done (20-11-05 23:44)
+  ✔ Revisar posts table @done (20-11-08 22:10)
+  ✔ Revisar tags table @done (20-11-08 22:11)
+  ✔ Revisar state entity @done (20-11-08 22:14)
+  ✔ Revisar state table @done (20-11-08 22:14)
+  ✔ Revisar timestamp en posts table @done (20-11-08 22:11)
+  ✔ Revisar timestamp en tags table @done (20-11-08 22:12)
+  ✔ Revisar posts controller @done (20-11-12 00:13)
+  ☐ Revisar tags controller
+  ☐ Revisar routes
+  ☐ Revisar tests
+  ☐ Agregar slug a posts table
+  ☐ Agregar slug a posts entity
+  ☐ Agregar function tags en PostsController
+  ☐ Agregar function findTagged en PostsTable
+  ☐ Agregar function _getTagString en post entity
+  ☐ Agregar beforesave poststable -> tags en PostsTable
+  ☐ Agregar _buildTags en PostsTable
+  ☐ Agregar link Posts <-> Tags con belongsToMany en PostsTable

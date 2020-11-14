@@ -1,0 +1,11 @@
+{
+    "elements": {
+        "app-root": {},
+        "router-outlet": {}
+    },
+    "attributes": {
+        "integrity": {
+            "context": "link"
+        }
+    }
+}
